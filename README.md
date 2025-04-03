@@ -18,7 +18,7 @@ Welcome to **Retro Gaming Haven**, a nostalgic journey into the golden era of ga
 - **HTML5**: For the structure of the website.
 - **CSS3**: For styling and layout, including custom variables and responsive design.
 - **Font Awesome**: For social media icons.
-- **Google Fonts**: For retro-inspired typography.
+
 
 ## How to Run the Project
 
